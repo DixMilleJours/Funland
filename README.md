@@ -4,8 +4,7 @@
 
 ##### Game Setting: 
 - The whole immersive setting is located on a charming beach, with a floating island above you!
-- I'm really beening creative to conjure 
-- such a setting for equally creative and explorative you!
+- I'm really beening creative to conjure such a setting for equally creative and explorative you!
 
 ##### Time to play around:
 - You are spawned in a well-decorated room floating in the air. 
@@ -21,8 +20,8 @@
 
 ##### How to realize this dreamy world:
 - Precision in codes:  
-- [x] Clear understanding of delivery time and early testing.
-- [x] Based on defect clustering, effectively test the modules.
+  - Clear understanding of delivery time and early testing.
+  - Based on defect clustering, effectively test the modules.
 - Clear division of labor:
-- [x] Optimize resources / C# scripting / Product introduction prep / Troubleshooting -- No one does them all!
+  - Optimize resources / C# scripting / Product introduction prep / Troubleshooting -- No one does them all!
 
