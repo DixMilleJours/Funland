@@ -10,7 +10,7 @@
 
 ##### Time to play around:
 - You are spawned in [a well-decorated room](https://raw.githubusercontent.com/lowdrag-zty/lowdrag-zty.github.io/master/Sceneries/spawn_point.png) floating in the air. You could see the great sceneries through the window!
-Please [look around in this room](https://github.com/lowdrag-zty/lowdrag-zty.github.io/blob/master/Room.mp4)!
+Please [look around in this room](https://github.com/lowdrag-zty/lowdrag-zty.github.io/blob/master/Room.mp4)!(ps:you might have to download this short clip)
 - 'Jump' out of the window and land on the warm and soft sand!
 
 - Step onto [the elegant ship](https://github.com/lowdrag-zty/lowdrag-zty.github.io/blob/master/Sceneries/beautiful_ship.png) and watch the fishes swimming freely!
@@ -29,11 +29,11 @@ Please [look around in this room](https://github.com/lowdrag-zty/lowdrag-zty.git
   - Optimizing resources / C# scripting / Product introduction prep / Troubleshooting -- No one does them all!
 - I learn Unity3D's underlying knowledge(rigid body, terrain, ray casting...) & learn how to write functional C# scripts.
 - Solid sense of teamwork:
-  - We value regular technical discussions and exchange ideas for potent improvement in user experience.
+  - We value regular technical discussions and exchanging ideas for potential improvement in user experience.
   - Always ready to support my teammates when facing challenges. Always illustrate ideas in an understandable way!
   
 ##### Statements:
-###### During a week's development process, we truly wrote some amazing codes that enabled lots of actions besides the original codes for some of Unity's default actions. For example, we realized the sniper rifle's action of zooming and shooting, realistic grabbing to the vines, events of fishes swimming around the ship, and so on. However, due to poor performance of our labtops, we could only develop the whole game on provided desktop computer. Therefore, I genuinely want to include thoses codes but could only show the images and a short video to demonstrate the game. 
+- During a week's development process, we truly wrote some amazing codes that enabled lots of actions besides the original codes for some of Unity's default actions. For example, we realized the sniper rifle's action of zooming and shooting, realistic grabbing to the vines, events of fishes swimming around the ship, and so on. However, due to poor performance of our labtops, we could only develop the whole game on provided desktop computer. Therefore, I genuinely want to include thoses codes but could only show the images and a short video to demonstrate the game. 
 
 # Enjoy yourself!
 
