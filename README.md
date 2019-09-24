@@ -35,7 +35,7 @@ Please [look around in this room](https://github.com/lowdrag-zty/lowdrag-zty.git
 ##### Statements:
 - During a week's development process, we truly wrote some amazing codes that enabled lots of actions besides the original codes for some of Unity's default actions. For example, we realized the sniper rifle's action of zooming and shooting, realistic grabbing to the vines, events of fishes swimming around the ship, and so on. However, due to poor performance of our labtops, we could only develop the whole game on provided desktop computer. Therefore, I genuinely want to include thoses codes but could only show the images and a short video to demonstrate the game. 
 
-# Enjoy yourself!
+# Enjoy yourself here!
 
 
 
