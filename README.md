@@ -5,8 +5,9 @@
 ##### Game Setting: 
 - The whole immersive setting is located on a charming beach, with a floating island above you!
 - I'm really beening creative to conjure such a setting for equally creative and explorative you!
-
+<p align="center">
 ![A glimpse of the fascinating gaming background](https://raw.githubusercontent.com/lowdrag-zty/lowdrag-zty.github.io/master/Sceneries/main_scene.png)
+</p>
 
 ##### Time to play around:
 - You are spawned in a well-decorated room floating in the air. 
