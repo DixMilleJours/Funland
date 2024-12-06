@@ -9,8 +9,10 @@
 ![A glimpse of the fascinating gaming background](https://raw.githubusercontent.com/lowdrag-zty/lowdrag-zty.github.io/master/Sceneries/main_scene.png)
 
 ##### Time to play around:
-- You are spawned in [a well-decorated room](https://raw.githubusercontent.com/lowdrag-zty/lowdrag-zty.github.io/master/Sceneries/spawn_point.png) floating in the air. You could see the great sceneries through the window!
-Please [look around in this room](https://github.com/lowdrag-zty/lowdrag-zty.github.io/blob/master/Room.mp4)!(ps:you might have to download this short clip)
+- You are spawned in a well-decorated room floating in the air. You could see the great sceneries through the window!
+![spawn_point](https://github.com/user-attachments/assets/414aa4cf-fe36-4540-a49c-830359e698ea)
+- Please look around in this room!
+https://github.com/user-attachments/assets/4f4c9517-bf7e-4330-9d2a-245e22ac9146
 - 'Jump' out of the window and land on the warm and soft sand!
 
 - Step onto [the elegant ship](https://github.com/lowdrag-zty/lowdrag-zty.github.io/blob/master/Sceneries/beautiful_ship.png) and watch the fishes swimming freely!
