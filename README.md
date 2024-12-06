@@ -1,6 +1,7 @@
-# HEY THERE!
+# Hi THERE!
 
-### This is the award-winning VR game developed with Unity3D during the China National Hackathon!
+### This is the award-winning VR game, _Funland_, developed with Unity3D during the China National Hackathon!
+#### ps: forked from my old GitHub account.
 
 ##### Game Setting: 
 - The whole immersive setting is located on a charming beach, with a floating island above you!
