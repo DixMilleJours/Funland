@@ -12,16 +12,29 @@
 - You are spawned in a well-decorated room floating in the air. You could see the great sceneries through the window!
 ![spawn_point](https://github.com/user-attachments/assets/414aa4cf-fe36-4540-a49c-830359e698ea)
 - Please look around in this room!
-https://github.com/user-attachments/assets/4f4c9517-bf7e-4330-9d2a-245e22ac9146
+
+
+https://github.com/user-attachments/assets/947bc7b5-d869-42d4-856c-40242d55ff37
+
+
 - 'Jump' out of the window and land on the warm and soft sand!
 
-- Step onto [the elegant ship](https://github.com/lowdrag-zty/lowdrag-zty.github.io/blob/master/Sceneries/beautiful_ship.png) and watch the fishes swimming freely!
+- Step onto the elegant ship and watch the fishes swimming freely!
 
-- Prove that you are a good shooter -- [try the sniper rifle](https://raw.githubusercontent.com/lowdrag-zty/lowdrag-zty.github.io/master/Sceneries/shooting_challenge.png) and hit the target!
+![beautiful_ship](https://github.com/user-attachments/assets/beb7de57-fcf4-40e3-a5be-d99f0586fed2)
 
-- Most realistic VR experience -- Feel the excitement and hone your skills through trying to climb [the vines](https://raw.githubusercontent.com/lowdrag-zty/lowdrag-zty.github.io/master/Sceneries/vine.png) all the way to the top and [see the grand fountain](https://raw.githubusercontent.com/lowdrag-zty/lowdrag-zty.github.io/master/Sceneries/vines_climbing.png)!
+- Prove that you are a good shooter -- try the sniper rifle and hit the target!
+
+![shooting_challenge](https://github.com/user-attachments/assets/07b6310a-4bd9-479d-8c95-870948cea588)
+
+- Most realistic VR experience -- Feel the excitement and hone your skills through trying to climb the vines all the way to the top and see the grand fountain
+
+![vine](https://github.com/user-attachments/assets/fe201bc2-8cb7-4dc5-9a12-4e67d5ec79e3)
 
 - Or... simply wandering around and enjoy the sceneries!
+
+![vines_climbing](https://github.com/user-attachments/assets/200e0ee3-5793-428d-a16d-91d8f760a42b)
+
 
 ##### How to realize this dreamy world:
 - Precision in codes:  
